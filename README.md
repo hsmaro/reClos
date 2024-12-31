@@ -104,3 +104,8 @@
 - AI 모델 개발 이외의 지식을 보완할 필요가 있음을 체감했습니다.
 - 여러 생각의 충돌을 경험하면서 의사 소통과 분위기의 중요성을 돌아볼 수 있었습니다.
 - 목적에 맞는 서비스를 제공하기 위한 프로젝트였지만 수익 창출 부분에서 아쉬움이 있었습니다.
+---
+
+# 자료 출처
+- [LaDI-VTON Github](https://github.com/miccunifi/ladi-vton?tab=readme-ov-file)
+- [사진 자료 + 논문](https://arxiv.org/abs/2305.13501)
